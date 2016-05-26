@@ -1,0 +1,8 @@
+div{
+    background: purple;
+    width: 120px;
+    height: 120px;
+    border: 2px pink;
+    padding: 20px;
+    margin: 20px;
+}
